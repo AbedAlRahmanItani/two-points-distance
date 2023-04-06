@@ -25,3 +25,7 @@ C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\obj\Debug\net6.0\
 C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\obj\Debug\net6.0\TwoPointsDistance.API.pdb
 C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\obj\Debug\net6.0\TwoPointsDistance.API.genruntimeconfig.cache
 C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\obj\Debug\net6.0\ref\TwoPointsDistance.API.dll
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\TwoPointsDistance.Application.dll
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\TwoPointsDistance.Domain.dll
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\TwoPointsDistance.Application.pdb
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\TwoPointsDistance.Domain.pdb

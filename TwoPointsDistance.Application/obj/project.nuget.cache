@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aNsb2DCVxsBgoM4qj9e+aWrl7a43LCdiOk3WxMYPdJCeyhUGeAxXClQiodnZalUJcwTaeUZORvT9XWvQpHtp7A==",
+  "dgSpecHash": "VOUP0V/TDCAIEvTbr3gZRGTEKOPkj1L9CdbawzWsG7R9nFrN1AE6HWXglxw/zFeAXEPfdFjXT3jf3SnY2vdz4Q==",
   "success": true,
   "projectFilePath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aitani\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
   "logs": []
 }

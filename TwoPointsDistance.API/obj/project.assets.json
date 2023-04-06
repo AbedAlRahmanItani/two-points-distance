@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "FluentValidation/11.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
@@ -88,10 +101,57 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "TwoPointsDistance.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FluentValidation": "11.5.1",
+          "TwoPointsDistance.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TwoPointsDistance.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TwoPointsDistance.Application.dll": {}
+        }
+      },
+      "TwoPointsDistance.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TwoPointsDistance.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TwoPointsDistance.Domain.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "FluentValidation/11.5.1": {
+      "sha512": "0h1Q5lNOLLyYTWMJmyNoMqhY4CBRvvUWvJP1R4F2CnmmzuWwvB0A8aVmw5+lOuwYnwUwCRrdeMLbc81F38ahNQ==",
+      "type": "package",
+      "path": "fluentvalidation/11.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.5.1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "sha512": "LH4OE/76F6sOCslif7+Xh3fS/wUUrE5ryeXAMcoCnuwOQGT5Smw0p57IgDh/pHgHaGz/e+AmEQb7pRgb++wt0w==",
       "type": "package",
@@ -216,11 +276,22 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "TwoPointsDistance.Application/1.0.0": {
+      "type": "project",
+      "path": "../TwoPointsDistance.Application/TwoPointsDistance.Application.csproj",
+      "msbuildProject": "../TwoPointsDistance.Application/TwoPointsDistance.Application.csproj"
+    },
+    "TwoPointsDistance.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TwoPointsDistance.Domain/TwoPointsDistance.Domain.csproj",
+      "msbuildProject": "../TwoPointsDistance.Domain/TwoPointsDistance.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Swashbuckle.AspNetCore >= 6.2.3"
+      "Swashbuckle.AspNetCore >= 6.2.3",
+      "TwoPointsDistance.Application >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -250,7 +321,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj": {
+              "projectPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
