@@ -29,3 +29,6 @@ C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\
 C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\TwoPointsDistance.Domain.dll
 C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\TwoPointsDistance.Application.pdb
 C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\TwoPointsDistance.Domain.pdb
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\FluentValidation.dll
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
