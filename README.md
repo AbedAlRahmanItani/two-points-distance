@@ -2,8 +2,10 @@
 A Web API to calculate the distance between two geographical points.
 
 ## Postman Localhost Testing
-- URL: 
+- URL:
+```sh
 GET https://localhost:44378/api/DistanceCalculation
+```
 
 - Request Body:
 ```sh
@@ -16,7 +18,9 @@ GET https://localhost:44378/api/DistanceCalculation
 ```
 
 - Request Headers:
-Accept-Language (en-US, es-ES); 
+```sh
+Accept-Language (en-US, es-ES, etc)
+```
 
 - Sample Response:
 ```sh
