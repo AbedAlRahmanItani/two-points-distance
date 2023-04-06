@@ -17,7 +17,7 @@ namespace TwoPointsDistance.API.Controllers
         }
 
         [HttpGet]
-        public ActionResult<DistanceCalculationResponse> Get(DistanceCalculationRequest request)
+        public DistanceCalculationResponse Get(DistanceCalculationRequest request)
         {
             var pointA = new Point
             {
