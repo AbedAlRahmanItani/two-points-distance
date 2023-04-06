@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=babb646d_002D8a57_002D4efc_002D9def_002Db6bac1f40f78/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GivenTwoPoints_WhenCalculate_ThenShouldReturnTheExpectedDistance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::00CB04E7-C84E-4648-B4D9-D9F73B5659AC::net6.0::TwoPointsDistance.Application.UnitTests.Services.DistanceCalculationServiceTests.GivenTwoPoints_WhenCalculate_ThenShouldReturnTheExpectedDistance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::00CB04E7-C84E-4648-B4D9-D9F73B5659AC::net6.0::TwoPointsDistance.Application.UnitTests.Validators.DistanceCalculationRequestValidatorTests.GivenAnInvalidDistanceCalculationRequest_WhenValidate_ThenShouldFailValidation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::00CB04E7-C84E-4648-B4D9-D9F73B5659AC::net6.0::TwoPointsDistance.Application.UnitTests.Validators.DistanceCalculationRequestValidatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20E159DE-EF71-445A-BEFB-30905B757357::net6.0::TwoPointsDistance.API.UnitTests.Controllers.DistanceCalculationControllerTests.GivenDistanceCalculationRequest_WhenGet_ThenShouldReturnTheExpectedResponse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6D129C6E-B3B4-4268-B94E-E0F87AD60A5C::net6.0::TwoPointsDistance.API.IntegrationTests.Controllers.DistanceCalculationControllerTests.GivenAValidDistanceCalculationRequest_WhenGet_ThenShouldReturnExpectedSuccessResponse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6D129C6E-B3B4-4268-B94E-E0F87AD60A5C::net6.0::TwoPointsDistance.API.IntegrationTests.Controllers.DistanceCalculationControllerTests.GivenAValidDistanceCalculationRequest_WhenGet_ThenShouldReturnExpectedSuccessResponse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6D129C6E-B3B4-4268-B94E-E0F87AD60A5C::net6.0::TwoPointsDistance.API.IntegrationTests.Controllers.DistanceCalculationControllerTests.GivenAnInvalidDistanceCalculationRequest_WhenGet_ThenShouldReturnExpectedErrorResponse&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

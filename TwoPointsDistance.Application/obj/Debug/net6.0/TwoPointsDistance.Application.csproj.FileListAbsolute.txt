@@ -1,0 +1,15 @@
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\bin\Debug\net6.0\TwoPointsDistance.Application.deps.json
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\bin\Debug\net6.0\TwoPointsDistance.Application.dll
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\bin\Debug\net6.0\TwoPointsDistance.Application.pdb
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\obj\Debug\net6.0\TwoPointsDistance.Application.csproj.AssemblyReference.cache
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\obj\Debug\net6.0\TwoPointsDistance.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\obj\Debug\net6.0\TwoPointsDistance.Application.AssemblyInfoInputs.cache
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\obj\Debug\net6.0\TwoPointsDistance.Application.AssemblyInfo.cs
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\obj\Debug\net6.0\TwoPointsDistance.Application.csproj.CoreCompileInputs.cache
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\obj\Debug\net6.0\TwoPointsDistance.Application.dll
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\obj\Debug\net6.0\refint\TwoPointsDistance.Application.dll
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\obj\Debug\net6.0\TwoPointsDistance.Application.pdb
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\obj\Debug\net6.0\ref\TwoPointsDistance.Application.dll
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\bin\Debug\net6.0\TwoPointsDistance.Domain.dll
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\bin\Debug\net6.0\TwoPointsDistance.Domain.pdb
+C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Application\obj\Debug\net6.0\TwoPointsDistance.Application.csproj.CopyComplete

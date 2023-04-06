@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F/v8NEgbgRvOaJj8sbdTGrI/SEgKMSWJD2dPsmNCghw=",
+  "Source": "TwoPointsDistance.API",
+  "BasePath": "_content/TwoPointsDistance.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
