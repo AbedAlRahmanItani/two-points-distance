@@ -1,4 +1,5 @@
-﻿using TwoPointsDistance.Application.Extensions;
+﻿using TwoPointsDistance.Application.Constants;
+using TwoPointsDistance.Application.Extensions;
 using TwoPointsDistance.Application.Interfaces;
 using TwoPointsDistance.Domain.Models;
 
@@ -6,8 +7,6 @@ namespace TwoPointsDistance.Application.Services;
 
 public class DistanceCalculationService : IDistanceCalculationService
 {
-    private const double EarthRadius = 6371;
-
     public double Calculate(Point pointA, Point pointB)
     {
         var cosA = Math.Cos(pointA.Latitude.ToRadians());
@@ -19,7 +18,7 @@ public class DistanceCalculationService : IDistanceCalculationService
 
         var cosP = sinA * sinB + cosA * cosB * cosPhi;
 
-        var distance = EarthRadius * Math.Acos(cosP);
+        var distance = AppConstants.EarthRadius * Math.Acos(cosP);
 
         return distance;
     }
