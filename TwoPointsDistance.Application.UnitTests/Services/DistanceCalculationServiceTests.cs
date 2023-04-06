@@ -15,7 +15,7 @@ public class DistanceCalculationServiceTests
         _sut = new DistanceCalculationService();
     }
 
-    [TestCase(53.297975, -6.372663, 41.385101, -81.440440, 5536)]
+    [TestCase(53.297975, -6.372663, 41.385101, -81.440440, 5536.3386822666853)]
     public void GivenTwoPoints_WhenCalculate_ThenShouldReturnTheExpectedDistance(double latitudeA, double longitudeA,
         double latitudeB, double longitudeB, double expectedDistance)
     {

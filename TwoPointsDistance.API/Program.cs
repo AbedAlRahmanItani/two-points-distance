@@ -1,8 +1,12 @@
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using System.Runtime.CompilerServices;
+using TwoPointsDistance.API.Middleware;
 using TwoPointsDistance.Application.Interfaces;
 using TwoPointsDistance.Application.Services;
 using TwoPointsDistance.Application.Validators;
+
+[assembly: InternalsVisibleTo("TwoPointsDistance.API.IntegrationTests")]
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +20,7 @@ builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddFluentValidationClientsideAdapters();
 builder.Services.AddValidatorsFromAssembly(typeof(DistanceCalculationRequestValidator).Assembly);
 builder.Services.AddTransient<IDistanceCalculationService, DistanceCalculationService>();
+builder.Services.AddTransient<IMeasurementConversionService, MeasurementConversionService>();
 
 var app = builder.Build();
 
@@ -31,5 +36,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseMiddleware<RequestCultureMiddleware>();
 
 app.Run();

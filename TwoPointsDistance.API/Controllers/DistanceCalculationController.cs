@@ -10,10 +10,14 @@ namespace TwoPointsDistance.API.Controllers
     public class DistanceCalculationController : ControllerBase
     {
         private readonly IDistanceCalculationService _distanceCalculationService;
+        private readonly IMeasurementConversionService _measurementConversionService;
 
-        public DistanceCalculationController(IDistanceCalculationService distanceCalculationService)
+        public DistanceCalculationController(
+            IDistanceCalculationService distanceCalculationService,
+            IMeasurementConversionService measurementConversionService)
         {
             _distanceCalculationService = distanceCalculationService;
+            _measurementConversionService = measurementConversionService;
         }
 
         [HttpGet]
@@ -30,12 +34,13 @@ namespace TwoPointsDistance.API.Controllers
                 Longitude = request.LongitudeB
             };
 
-            var distance = _distanceCalculationService.Calculate(pointA, pointB);
+            var distanceInKm = _distanceCalculationService.Calculate(pointA, pointB);
+            var measurement = _measurementConversionService.Convert(distanceInKm);
 
             return new DistanceCalculationResponse
             {
-                Distance = distance,
-                Unit = "km"
+                Distance = measurement.Value,
+                Unit = measurement.Unit
             };
         }
     }

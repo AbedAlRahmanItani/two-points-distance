@@ -21,6 +21,6 @@ public class DistanceCalculationService : IDistanceCalculationService
 
         var distance = EarthRadius * Math.Acos(cosP);
 
-        return Math.Round(distance);
+        return distance;
     }
 }
