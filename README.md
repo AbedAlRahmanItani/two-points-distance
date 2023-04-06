@@ -1,7 +1,7 @@
 # Calculate the distance betwee two geographical points
 A Web API to calculate the distance between two geographical points.
 
-## Postman Localhost Testing
+## Postman localhost testing
 - URL:
 ```sh
 GET https://localhost:44378/api/DistanceCalculation
