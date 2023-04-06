@@ -33,3 +33,4 @@ Accept-Language (en-US, es-ES, etc)
 ## Notes
 - The Accept-Language header is used to determine the locale, for now, if the provided value is en-US, then the calculation result is returned in mile, otherwise in km.
 - If the Accept-Language not provided, en-US is used to calculate the distance.
+- The following reference can be used to validate the calculation result: http://www.movable-type.co.uk/scripts/latlong.html
