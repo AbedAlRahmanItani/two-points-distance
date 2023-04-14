@@ -10,3 +10,15 @@ C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6
 C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\refint\TwoPointsDistance.Domain.dll
 C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\TwoPointsDistance.Domain.pdb
 C:\repaygithub\Tests\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\ref\TwoPointsDistance.Domain.dll
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\bin\Debug\net6.0\TwoPointsDistance.Domain.deps.json
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\bin\Debug\net6.0\TwoPointsDistance.Domain.dll
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\bin\Debug\net6.0\TwoPointsDistance.Domain.pdb
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\TwoPointsDistance.Domain.csproj.AssemblyReference.cache
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\TwoPointsDistance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\TwoPointsDistance.Domain.AssemblyInfoInputs.cache
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\TwoPointsDistance.Domain.AssemblyInfo.cs
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\TwoPointsDistance.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\TwoPointsDistance.Domain.dll
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\refint\TwoPointsDistance.Domain.dll
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\TwoPointsDistance.Domain.pdb
+C:\Users\bahma\Desktop\Projects\two-points-distance\TwoPointsDistance.Domain\obj\Debug\net6.0\ref\TwoPointsDistance.Domain.dll

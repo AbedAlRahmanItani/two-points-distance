@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API.UnitTests\\TwoPointsDistance.API.UnitTests.csproj": {}
+    "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API.UnitTests\\TwoPointsDistance.API.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API.UnitTests\\TwoPointsDistance.API.UnitTests.csproj": {
+    "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API.UnitTests\\TwoPointsDistance.API.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API.UnitTests\\TwoPointsDistance.API.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API.UnitTests\\TwoPointsDistance.API.UnitTests.csproj",
         "projectName": "TwoPointsDistance.API.UnitTests",
-        "projectPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API.UnitTests\\TwoPointsDistance.API.UnitTests.csproj",
-        "packagesPath": "C:\\Users\\aitani\\.nuget\\packages\\",
-        "outputPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API.UnitTests\\obj\\",
+        "projectPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API.UnitTests\\TwoPointsDistance.API.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\bahma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aitani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,18 +22,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/repaygateway/auth/120f8a26-227e-431f-afe5-44440cd4ac68/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API\\TwoPointsDistance.API.csproj": {
-                "projectPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API\\TwoPointsDistance.API.csproj"
+              "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API\\TwoPointsDistance.API.csproj": {
+                "projectPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API\\TwoPointsDistance.API.csproj"
               },
-              "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj": {
-                "projectPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj"
+              "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj": {
+                "projectPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj"
               }
             }
           }
@@ -93,21 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API\\TwoPointsDistance.API.csproj": {
+    "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API\\TwoPointsDistance.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API\\TwoPointsDistance.API.csproj",
+        "projectUniqueName": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API\\TwoPointsDistance.API.csproj",
         "projectName": "TwoPointsDistance.API",
-        "projectPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API\\TwoPointsDistance.API.csproj",
-        "packagesPath": "C:\\Users\\aitani\\.nuget\\packages\\",
-        "outputPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.API\\obj\\",
+        "projectPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API\\TwoPointsDistance.API.csproj",
+        "packagesPath": "C:\\Users\\bahma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aitani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -115,15 +114,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/repaygateway/auth/120f8a26-227e-431f-afe5-44440cd4ac68/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj": {
-                "projectPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj"
+              "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj": {
+                "projectPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj"
               }
             }
           }
@@ -170,21 +168,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj": {
+    "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj",
+        "projectUniqueName": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj",
         "projectName": "TwoPointsDistance.Application",
-        "projectPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj",
-        "packagesPath": "C:\\Users\\aitani\\.nuget\\packages\\",
-        "outputPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Application\\obj\\",
+        "projectPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Application\\TwoPointsDistance.Application.csproj",
+        "packagesPath": "C:\\Users\\bahma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aitani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -192,15 +190,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/repaygateway/auth/120f8a26-227e-431f-afe5-44440cd4ac68/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Domain\\TwoPointsDistance.Domain.csproj": {
-                "projectPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Domain\\TwoPointsDistance.Domain.csproj"
+              "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Domain\\TwoPointsDistance.Domain.csproj": {
+                "projectPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Domain\\TwoPointsDistance.Domain.csproj"
               }
             }
           }
@@ -236,21 +233,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Domain\\TwoPointsDistance.Domain.csproj": {
+    "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Domain\\TwoPointsDistance.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Domain\\TwoPointsDistance.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Domain\\TwoPointsDistance.Domain.csproj",
         "projectName": "TwoPointsDistance.Domain",
-        "projectPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Domain\\TwoPointsDistance.Domain.csproj",
-        "packagesPath": "C:\\Users\\aitani\\.nuget\\packages\\",
-        "outputPath": "C:\\repaygithub\\Tests\\two-points-distance\\TwoPointsDistance.Domain\\obj\\",
+        "projectPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Domain\\TwoPointsDistance.Domain.csproj",
+        "packagesPath": "C:\\Users\\bahma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bahma\\Desktop\\Projects\\two-points-distance\\TwoPointsDistance.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aitani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -258,8 +255,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.myget.org/F/repaygateway/auth/120f8a26-227e-431f-afe5-44440cd4ac68/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -292,7 +288,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

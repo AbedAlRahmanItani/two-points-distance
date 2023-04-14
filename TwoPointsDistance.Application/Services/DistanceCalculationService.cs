@@ -18,7 +18,7 @@ public class DistanceCalculationService : IDistanceCalculationService
 
         var cosP = sinA * sinB + cosA * cosB * cosPhi;
 
-        var distance = AppConstants.EarthRadius * Math.Acos(cosP);
+        var distance = AppConstants.EarthRadiusInKm * Math.Acos(cosP);
 
         return distance;
     }

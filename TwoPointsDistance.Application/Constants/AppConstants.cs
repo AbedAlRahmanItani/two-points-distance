@@ -2,7 +2,7 @@
 
 public static class AppConstants
 {
-    public const double EarthRadius = 6371;
+    public const double EarthRadiusInKm = 6371;
 
     public const double KmToMile = 0.621371;
 
